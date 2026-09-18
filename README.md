@@ -1,4 +1,7 @@
 # pbo2-2410010153
+# NAMA : MUHAMMAD RIFALDI
+# NPM : 2410010153
+# KELAS : 5 A REGULER PAGI BJM
 **Tangkapan layar HaloPBO2**
 <img width="1917" height="1077" alt="Screenshot  HaloPBO2 2026-09-18 190211" src="https://github.com/user-attachments/assets/e38ac851-4c80-4c86-86d1-740fbea59e39" />
 **Tangkapan layar KartuMahasiswa**
